@@ -1,0 +1,33 @@
+buat perubahan pada repo
+
+git add -A
+git commit -m 'commit'
+git push -u origin main
+
+collaboration
+1. clone
+2. buat branch
+3. git checkout -b <branch>, buat pindah branch
+4. edit dah
+5. git status, buat cek
+6. git add -A
+7. git commit -m "commit"
+8. git push -u origin <branch>
+
+branch berhasil yey. kalo udah selesai harus kita pindahin lagi ke jalur utama (main) alias di merge
+
+1. git pull origin main
+2. kalo gada conflict atau issue let's check github!!
+3. open pull request 
+4. write comment kek commit apa aja yang udah lo lakuin
+5. marge pull request
+6. confirm
+
+selesai cuy, kita berhasil collab!
+
+kalo mau balik ke main
+git checkout main
+
+git pull 
+
+code . (buat buka vscode dari directory yang aktif)
