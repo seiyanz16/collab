@@ -3,3 +3,5 @@ halo seiya ini kohaku
 kohaku make changed at second times!
 
 kohaku ngedit untuk yang ketiga kalinya.
+
+pull buat fork yang bukan bagian dari collaborator
